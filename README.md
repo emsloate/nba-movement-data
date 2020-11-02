@@ -1,11 +1,10 @@
 # nba-movement-data
-Ever since the nba stopped public access of their movement data, I though it would be good to have a copy of @neilmj data repo incase he deletes his data repo.
-
-Credit: [@neilmj](https://github.com/neilmj/BasketballData)
-Credit[@sealneward](https://github.com/sealneaward)
+Serious credit for hosting the tracking data goes to:
+[@neilmj](https://github.com/neilmj/BasketballData)
+[@sealneward](https://github.com/sealneaward)
 
 # Instructions
-
+These instructions will let you run the project "from scratch" as I did
 ### In movement/constant.py change the following line
 ```py 
 import os
@@ -38,3 +37,4 @@ python possessions_and_free_throws.py
 These scripts will give you the data necessary when working through the train_model and xRatings notebooks.
 
 ## Or you can skip all that since I have already computed these things, and just run the notebooks
+The notebooks will train models on the data and spit out some nice charts. So far, accuracy is around 63%. 
