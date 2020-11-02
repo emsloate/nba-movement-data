@@ -37,4 +37,4 @@ python possessions_and_free_throws.py
 ```
 These scripts will give you the data necessary when working through the train_model and xRatings notebooks.
 
-## Or you can skip all that since I have already computed these things
+## Or you can skip all that since I have already computed these things, and just run the notebooks
