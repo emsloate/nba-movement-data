@@ -1,4 +1,5 @@
 # nba-movement-data
+Project to predict likelihood of a succesful field goal attempt in the NBA, using SportVU tracking data from from 162 games in the NBA.
 Serious credit for hosting the tracking data goes to:
 [@neilmj](https://github.com/neilmj/BasketballData)
 [@sealneward](https://github.com/sealneaward)
